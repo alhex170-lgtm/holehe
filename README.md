@@ -77,10 +77,7 @@ For each module, data is returned in a standard dictionary with the following js
   "name": "example",
   "rateLimit": false,
   "exists": true,
-  "emailrecovery": "betsaidaruiz291@gmail.com",
-  "phoneNumber": "3334840602",
-  "others": null
-}
+  
 ```
 
 - rateLitmit : Lets you know if you've been rate-limited.
